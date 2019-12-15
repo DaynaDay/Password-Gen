@@ -1,1 +1,2 @@
-# Password-Gen
+In this project I was tasked with creating a Password Generator from the proverbial ground up. I used HTML, CSS, and Javascript files to create my project. In this project I needed to have the user generate a password with a bevy of characters, symbols, and numbers to create a random passcode. I prompted the user with several questions such as would they like to use special characters, numbers and such. After these were answered the user could then click the generate button and shown a random password. 
+I tried to utilize functions as well as variables linked to the browser that would allow my generator to fruition. 
